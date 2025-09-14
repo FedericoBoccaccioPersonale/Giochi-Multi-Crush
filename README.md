@@ -6,4 +6,4 @@ https://federicoboccaccio.wordpress.com/multi-crush/
 Scarica solo i file **zip** o **apk** per ottenere la versione funzionante.
 
 # Download
-[Ultima versione](https://github.com/FedericoBoccaccioPersonale/Giochi-Multi-Crush/releases/latest)
+[Ultima versione](https://github.com/FedericoBoccaccioPersonale/Giochi-Multi-Crush/releases/latest) (tutte le piattaforme disponibili)
