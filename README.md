@@ -1,2 +1,6 @@
 # Giochi\Multi Crush 🎮 🇮🇹
 https://federicoboccaccio.wordpress.com/multi-crush/
+
+# Importante
+⚠️ I file "Source code (.zip)" e "Source code (.tar.gz)" sono generati automaticamente da GitHub e **non contengono il gioco**.  
+Scarica solo i file **zip** o **apk** per ottenere la versione funzionante.
